@@ -1,0 +1,1 @@
+## This project gives a minimum requirment of building an image read program by VTK and Qt
